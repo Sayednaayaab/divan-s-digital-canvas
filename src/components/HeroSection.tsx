@@ -12,9 +12,9 @@ const roles = [
 ];
 
 const socialLinks = [
-  { icon: Github, href: 'https://github.com', label: 'GitHub' },
-  { icon: Linkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
-  { icon: Mail, href: 'mailto:divansab@example.com', label: 'Email' },
+  { icon: Github, href: 'https://github.com/alikh2001', label: 'GitHub' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/ali-harkuni/', label: 'LinkedIn' },
+  { icon: Mail, href: 'mailto:aliharkuni7@gmail.com', label: 'Email' },
 ];
 
 const HeroSection = () => {
