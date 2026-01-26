@@ -1,8 +1,7 @@
-# Remove Lovable References
+# TODO: Update Skills Icons and Descriptions
 
-- [x] Update package.json: Change name to "divansab-portfolio", remove lovable-tagger dependency
-- [x] Update vite.config.ts: Remove lovable-tagger import and componentTagger usage
-- [x] Update index.html: Remove lovable.dev image references from meta tags
-- [x] Update README.md: Remove Lovable references and update content
-- [ ] Run npm install to update dependencies
-- [ ] Test build to ensure everything works
+- [ ] Update JavaScript: Change icon to '🟨' and description to "Dynamic scripting for interactive web experiences"
+- [ ] Update React.Js: Change icon to '⚛️' and description to "Component-based UI library for building modern web applications"
+- [ ] Update MongoDB: Fix name from "MOngoDB" to "MongoDB", change icon to '🍃', and description to "NoSQL database for flexible, scalable data storage"
+- [ ] Update PowerBI: Change icon to '📊' and description to "Business intelligence tool for data visualization and analytics"
+- [ ] Verify the updated skills display correctly in the UI

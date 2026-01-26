@@ -24,6 +24,20 @@ const skills = [
     color: 'from-primary to-secondary',
   },
   {
+    name: 'JavaScript',
+    level: 95,
+    description: 'Dynamic scripting for interactive web experiences',
+    icon: '🟨',
+    color: 'from-primary to-secondary',
+  },
+  {
+    name: 'React.Js',
+    level: 95,
+    description: 'Component-based UI library for building modern web applications',
+    icon: '⚛️',
+    color: 'from-primary to-secondary',
+  },
+  {
     name: 'CSS',
     level: 88,
     description: 'Crafting pixel-perfect, responsive user interfaces',
@@ -31,11 +45,25 @@ const skills = [
     color: 'from-secondary to-primary',
   },
   {
+    name: 'MongoDB',
+    level: 95,
+    description: 'NoSQL document database for flexible and scalable data management',
+    icon: '🍃',
+    color: 'from-primary to-secondary',
+  },
+  {
     name: 'MySQL',
     level: 82,
     description: 'Database design and optimization for scalable applications',
     icon: '🗃️',
     color: 'from-primary to-primary/70',
+  },
+  {
+    name: 'PowerBI',
+    level: 95,
+    description: 'Business intelligence tool for data visualization and analytics',
+    icon: '📊',
+    color: 'from-primary to-secondary',
   },
 ];
 

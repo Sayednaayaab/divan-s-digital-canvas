@@ -7,9 +7,9 @@ import { Textarea } from '@/components/ui/textarea';
 import { useToast } from '@/hooks/use-toast';
 
 const contactInfo = [
-  { icon: Mail, label: 'Email', value: 'divansab@example.com' },
-  { icon: MapPin, label: 'Location', value: 'Tech City, World' },
-  { icon: Phone, label: 'Phone', value: '+1 234 567 890' },
+  { icon: Mail, label: 'Email', value: 'aliharkuni7@gmail.com' },
+  { icon: MapPin, label: 'Location', value: 'Hulgur' },
+  { icon: Phone, label: 'Phone', value: '+91 70261 25843' },
 ];
 
 const ContactSection = () => {

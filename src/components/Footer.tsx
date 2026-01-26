@@ -2,9 +2,9 @@ import { motion } from 'framer-motion';
 import { ArrowUp, Github, Linkedin, Mail, Heart } from 'lucide-react';
 
 const socialLinks = [
-  { icon: Github, href: 'https://github.com', label: 'GitHub' },
-  { icon: Linkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
-  { icon: Mail, href: 'mailto:divansab@example.com', label: 'Email' },
+  { icon: Github, href: 'https://github.com/alikh2001', label: 'GitHub' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/ali-harkuni/', label: 'LinkedIn' },
+  { icon: Mail, href: 'mailto:gmail : aliharkuni7@gmail.com', label: 'Email' },
 ];
 
 const Footer = () => {
@@ -32,8 +32,7 @@ const Footer = () => {
 
           {/* Credit */}
           <div className="flex items-center gap-2 text-sm text-muted-foreground">
-            <span>Designed & Developed with</span>
-            <Heart className="w-4 h-4 text-destructive fill-destructive animate-pulse" />
+            <span>Designed & Developed</span>
             <span>by Divansab Harkuni</span>
           </div>
 
